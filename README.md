@@ -12,4 +12,4 @@ Metode waterfall adalah metode kerja yang menekankan fase-fase yang berurutan da
 
 ### Rapid application development (RAD)
 Rapid application development (RAD) adalah metode yang berfokus pada pengembangan aplikasi secara cepat, melalui pengulangan dan feedback berulang-ulang.
-![rapidapplicationdevelopment-small](image/rapidapplicationdevelopment-small.jpg})
+![rapidapplicationdevelopment-small](image/rapidapplicationdevelopment-small.jpg)
